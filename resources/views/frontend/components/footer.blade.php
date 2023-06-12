@@ -77,11 +77,11 @@
     {{--<div class="container footer">--}}
         {{--<div class="col-5" style="margin-right: 50px;">--}}
             {{--<div class="footer-widget">--}}
-                {{--<div class="title">Connecting with US</div>--}}
+                {{--<div class="title">KẾT NỐI VỚI CHÚNG TÔI</div>--}}
                 {{--<ul class="list-menu" style="display:block">--}}
-                    {{--<li>Address: Cicha 4, 35-326 Rzeszow</li>--}}
-                    {{--<li>Hotline: +48 794 403 214</li>--}}
-                    {{--<li>Email: 123@gmail.com</li>--}}
+                    {{--<li>Địa chỉ: 38 Phan Đình Phùng, P.Tân Thành, Q.Tân Phú, TP.HCM</li>--}}
+                    {{--<li>Hotline: 0902720570</li>--}}
+                    {{--<li>Email: webgiadung.vn@gmail.com</li>--}}
                 {{--</ul>--}}
             {{--</div>--}}
         {{--</div>--}}

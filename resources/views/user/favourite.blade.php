@@ -6,7 +6,7 @@
 @stop
 @section('content')
     <section>
-        <div class="title">Favourite Product</div>
+        <div class="title">List of favorite products</div>
         <div class="row mb-5">
            <div class="col-sm-12">
                 <table class="table table-striped">

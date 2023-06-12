@@ -128,7 +128,7 @@ class ShoppingCartController extends Controller
             if ($transactionID) {
                 $shopping = \Cart::content();
 
-                Mail::to($request->tst_email)->send(new TransactionSuccess($shopping));
+                //Mail::to($request->tst_email)->send(new TransactionSuccess($shopping));
 
                 foreach ($shopping as $key => $item) {
 

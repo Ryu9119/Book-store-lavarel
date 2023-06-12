@@ -231,7 +231,7 @@
                                         <img src="{{ pare_url_file($product->product->pro_avatar ?? "[N\A]") }}" alt="" style="width: 80px;height: 80px;">
                                     </td>
                                     <td>{{ $product->quantity }}</td>
-                                    <td>{{ number_format($product->od_price,0,',','.') }} VNĐ</td>
+                                    <td>{{ number_format($product->od_price,0,',','.') }} $</td>
                                 </tr>
                             @endforeach
                             </tbody>
@@ -270,7 +270,7 @@
                             <div class="product-info">
                                 <a href="javascript:void(0)" class="product-title">
                                     {{  $item->pro_pay }} Purchases
-                                <span class="label label-warning pull-right">{{ number_format($item->pro_price,0,',','.') }} đ</span>
+                                <span class="label label-warning pull-right">{{ number_format($item->pro_price,0,',','.') }} $</span>
                                 </a>
                                 <span class="product-description">{{ $item->pro_name }}</span>
                             </div>

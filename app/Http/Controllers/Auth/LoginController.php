@@ -43,7 +43,7 @@ class LoginController extends Controller
 
     public function getFormLogin()
     {
-        $title_page = 'Đăng nhập';
+        $title_page = 'Login';
         return view('auth.login',compact('title_page'));
     }
 

@@ -28,13 +28,13 @@ return [
 			],
 			'article' => [
 				'layout' => '1',
-				'messages' => '1 la mac dinh| 2 la moi '
+				'messages' => '1 default| 2 new '
 			]
 		],
 		'search' => [
 			'price' => [
 				'type' => 2,
-				'messages' => '1 mặc định, 2 sidebar'
+				'messages' => '1 default , 2 sidebar'
 			]
 		]
 	],
